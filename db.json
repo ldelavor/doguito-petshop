@@ -1,0 +1,24 @@
+{
+  "profile": [
+    {
+      "name": "felipe",
+      "email": "felipe@alura.com",
+      "id": 1
+    },
+    {
+      "name": "lucas",
+      "email": "lucast@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "cicera",
+      "email": "cicera@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "mike",
+      "email": "mike@dog.com",
+      "id": 4
+    }
+  ]
+}
